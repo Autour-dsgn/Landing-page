@@ -1,0 +1,25 @@
+.footer {
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 40px;
+}
+
+.link {
+  list-style: none;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #1ade87;
+  font-size: 28px;
+  padding: 12px;
+}
+
+.footer p {
+  color: rgb(100, 100, 100);
+  font-size: 15px;
+}
+
+.footer .fas {
+  color: #BF0F12;
+}
